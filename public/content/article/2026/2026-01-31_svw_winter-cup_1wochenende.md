@@ -16,11 +16,11 @@ image:
 
 
 
-**4. SVW Winter-Cup, 1. Wochenende**
+## 4. SVW Winter-Cup, 1. Wochenende
  
 Mittlerweile schon zum vierten Mal lud der SV Walddorf am vergangenen Wochenende zu unserem großen Hallenturnier, dem SVW Winter-Cup, ein.
  
-**Samstag Vormittag: E-Junioren 2016**
+## Samstag Vormittag: E-Junioren 2016
 Los gings am Samstagvormittag mit den Kindern des Jahrgangs 2016. Neben unseren eigenen beiden Mannschaften und diversen Mannschaften aus der näheren Umgebung, konnten wir unter anderem auch die Stuttgarter Kickers sowie den VFL Pfullingen bei uns begrüßen.
  
 Die jungen Kicker traten in drei 4er-Gruppen an, die jeweils Gruppen-Ersten sowie der beste Gruppenzweite qualifizierten sich fürs Halbfinale.
@@ -37,7 +37,7 @@ Im einem spannenden Finale sicherte sich der TV Derendingen durch ein 5:2 gegen 
 Herzlichen Glückwunsch und vielen Dank an alle Teilnehmer!
  
 
-**Samstag Nachmittag: E-Junioren 2015**
+## Samstag Nachmittag: E-Junioren 2015
 Am Samstag waren dann die älteren E-Jugendlichen dran, auch hier waren wir mit zwei eigenen Mannschaften vertreten.
  
 Für diese lief es ähnlich wie am Vormittag:
@@ -52,7 +52,7 @@ Den Sieger-Pokal holte sich der TSV Dettingen/Erms durch ein überzeugendes 4:0 
 Herzlichen Glückwünsch an alle Teilnehmer!
  
  
-**Sonntag Vormittag: F-Junioren 2017**
+## Sonntag Vormittag: F-Junioren 2017
 Am Sonntag fanden dann die Turniere der F-Junioren statt, auch hier begann der jüngere Jahrgang.
 Hier wurde in einer Spieltagsform, also nicht in einem Turniermodus gespielt.
 Bei diesen jungen Jahrgängen soll, noch mehr als sowieso in der Jugendarbeit, einfach die Freude am Spielen, ohne zuviel Fokus auf die Ergebnisse im Fokus stehen.
@@ -60,7 +60,7 @@ Bei diesen jungen Jahrgängen soll, noch mehr als sowieso in der Jugendarbeit, e
 Daher wurde in 3 Gruppen in einer Hin- und einer Rückrunde je zwei Mal jeder gegen jeden gespielt. Somit bekamen alle jungen SpielerInnen jede Menge Zeit auf dem Spielfeld und konnten zeigen was sie können.
  
 
-**Sonntag Nachmittag: F-Junioren 2016**
+## Sonntag Nachmittag: F-Junioren 2016
 Den Abschluss unseres ersten Turnierwochenendes machten die F1-Junioren am Sonntag Nachmittag.
 Hier wurde im gleichen Modus wie am Vormittag allen Beteiligten maximale Spielzeit geboten.
  

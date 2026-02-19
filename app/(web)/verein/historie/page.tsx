@@ -19,10 +19,24 @@ export default function Historie() {
           <table>
             <tbody>
               <tr>
+                <td>2025</td>
+                <td>
+                  <p>Sowohl B- als auch C-Junioren gewinnen den Bezirkspokal.</p>
+                  <p>Aufnahme des Spielbetriebs im Dartverband Oberschwaben (DVOS).</p>
+                </td>
+              </tr>
+              <tr>
+                <td>2024</td>
+                <td>
+                  Steel Darts wird neu ins Sportangebot aufgenommen.
+                </td>
+              </tr>
+              <tr>
                 <td>2023</td>
                 <td>
-                  Unsere Zweite steigt in die Kreisliga A auf. Noch nie zuvor spielte eine 2. Mannschaft des SVW in der
-                  Kreisliga A.
+                  <p>Unsere Zweite steigt in die Kreisliga A auf. Noch nie zuvor spielte eine 2. Mannschaft des SVW in der
+                  Kreisliga A.</p>
+                  <p>Hobby Horsing wird neu ins Sportangebot aufgenommen.</p>
                 </td>
               </tr>
               <tr>
@@ -73,14 +87,14 @@ export default function Historie() {
               <tr>
                 <td>2011</td>
                 <td>
-                  Satzungsänderung mit Umstrukturierung des Vereinsvorstandes. Teilnahme an den 700-Jahr Feierlichkeiten
-                  des Ortsteiles Häslach.
+                  Satzungsänderung mit Umstrukturierung des Vereinsvorstandes.
                 </td>
               </tr>
               <tr>
                 <td>2010</td>
                 <td>
-                  Auszeichnung der Sepp-Herberger-Stiftung &quot;für eine besonders bemerkenswerte Jugendarbeit&quot;.
+                  <p>Auszeichnung der Sepp-Herberger-Stiftung &quot;für eine besonders bemerkenswerte Jugendarbeit&quot;.</p>
+                  <p>Teilnahme an den 700-Jahr Feierlichkeiten des Ortsteiles Häslach.</p>
                 </td>
               </tr>
               <tr>
@@ -137,6 +151,10 @@ export default function Historie() {
                 <td>Ein Rasenspielfeld wird fertig gestellt und kann vom Sportverein genutzt werden.</td>
               </tr>
               <tr>
+                <td>1979</td>
+                <td>Der SVW feiert am 20.,21. und 22 Juli 1979 sein 75 jähriges Vereinsjubiläum, u. a. mit Schlagerstar Tina York.</td>
+              </tr>
+              <tr>
                 <td>1978</td>
                 <td>
                   Der Vereinsnamen wurde nach Satzungsneufassung in &quot;Sportverein Walddorf 1904 e.V.&quot;
@@ -187,7 +205,10 @@ export default function Historie() {
               </tr>
               <tr>
                 <td>1954</td>
-                <td>Der neue Sportplatz bei der Turnhalle wird in Betrieb genommen.</td>
+                <td>
+                  <p>Der neue Sportplatz bei der Turnhalle wird in Betrieb genommen.</p>
+                  <p>Der SVW feiert am 26. und 27. Juni 1954 sein 50 jähriges Vereinsjubiläum.</p>
+                </td>
               </tr>
               <tr>
                 <td>1953</td>

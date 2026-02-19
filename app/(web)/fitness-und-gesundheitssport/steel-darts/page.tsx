@@ -39,7 +39,7 @@ export default function SteelDarts() {
               Highscore, Cricket, Shanghai und Fußball. Fußball wird mit mehreren Personen gespielt. Mit dem Bull
               erzielt man Ballbesitz und Tore werden auf einem Doppel erzielt. Gespielt wird sieben Runden.
             </p>
-            <p>Eine Teilnahme an Darts-Wettkämpfen ist geplant.</p>
+            <p>Seit September 2025 nehmen wir am Ligabetrieb des Dartverband Oberschwaben (DVOS, Kreisliga C) teil.</p>
             <h4>Übungszeiten</h4>
             <p>Mittwochs, 18:00 - 21:00 Uhr</p>
             <h4>Übungsort</h4>
