@@ -47,7 +47,7 @@ b) und zusätzlich mindestens 3 bis maximal 8 weiteren Vorstandsmitgliedern. <br
 3. Alle dem Vorstand angehörigen Personen müssen Vereinsmitglied gemäß § 5 dieser Satzung sein. Der / die 1. und 2. Vorsitzende müssen volljährig sein. Für die übrigen Vorstandsämter können auch Vereinsmitglieder nach Vollendung des 16. Lebensjahres gewählt werden (mit Zustimmung der gesetzlichen Vertreter).
 4. Der Verein wird gerichtlich und außergerichtlich im Sinne des § 26 BGB durch den/die 1. Vorsitzende und den/die 2. Vorsitzende vertreten. Jedes dieser beiden Vorstandsmitglieder hat dabei Einzelvertretungsbefugnis.
 
-Hierzu werden der Mitgliederversammlung folgende Änderungen (im folgenden Text grau hinterlegt) zur Abstimmung vorgeschlagen (so vom Vorstand in seiner Sitzung am 02.12.2025 beschlossen):
+Hierzu werden der Mitgliederversammlung folgende Änderungen (im folgenden Text hervorgehoben) zur Abstimmung vorgeschlagen (so vom Vorstand in seiner Sitzung am 02.12.2025 beschlossen):
 <br>
 § 13 Vorstand
 1. Der Vorstand des Vereins setzt sich zusammen aus:<br>
