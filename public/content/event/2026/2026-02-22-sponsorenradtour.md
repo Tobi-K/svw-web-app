@@ -34,7 +34,10 @@ Wir freuen uns auf viele motivierte Teilnehmer*innen und eine fröhliche Radtour
 * **Unkostenbeitrag:** 
   110 € pro Teilnehmer (Tourverpflegung, Abendessen, Übernachtung, Frühstück)
 * **Anmeldung:** [Anmeldeformular](/download/2026/2026-02-22_Sponsoren-Radtour-Anmeldung-2026.pdf)  per E-Mail unter [sponsorenradtour@svwalddorf.de](mailto:sponsorenradtour@svwalddorf.de) - 
-* **Weitere Informationen:** Per E-Mail [sponsorenradtour@svwalddorf.de](mailto:sponsorenradtour@svwalddorf.de) oder auf der [Seite zur Veranstaltung](/event/2024-05-25-sponsorenradtour)
+* **Weitere Informationen:** Per E-Mail [sponsorenradtour@svwalddorf.de](mailto:sponsorenradtour@svwalddorf.de) oder auf der [Seite zur Veranstaltung](/event/2026-02-22-sponsorenradtour)
 * **Anmeldeschluss:** 25.04.2026
 
 * **[Aushang / Infoblatt zum Download](/download/2026/2026-02-22_Sponsoren-Radtour-Aushang-2026.pdf)**
+
+
+![Strecken-Vorschlag](/media/2026/2026-02-23_sponsorenradtour_strecke.jpg)
