@@ -18,12 +18,11 @@ image:
 <p>21.01.2026                         DS Ehingen – SV Walddorf 1               1:9</p>
 <p>28.01.2026                         SV Walddorf 1 – Game Over 3              2:8</p>
 <p>04.02.2026                         DS Gomaringen 2 – SV Walddorf 1          4:6</p>
-
+<p>25.02.2026                         SV Walddorf 1 – 1. DC Allmendingen 4     5:5</p>
+<p>03.03.2026                         FC Schelklingen/Alb 1 – SV Walddorf 1    6:4</p>
 
 ## Vorschau
 
-<p>25.02.2026                         SV Walddorf 1 – 1. DC Allmendingen 4</p>
-<p>03.03.2026                         FC Schelklingen/Alb 1 – SV Walddorf 1</p>
 <p>11.03.2026                         SV Walddorf 1 – SV Niederhofen 3</p>
 <p>18.03.2026                         SV Walddorf 1 – DC Blaurädle Blaubeuren 4</p>
 <p>15.04.2026                         SV Walddorf 1 – 1. DC Allmendingen 5</p>
