@@ -24,10 +24,10 @@ Er berichtete über den aktuellen Stand des SVW: Die Mitgliederzahl wuchs im Jah
 
 Unter den Themen, mit denen sich der Vorstand befasst hat, nannte er besonders:
 
-  • Die vereinsinterne Umfrage zum Ehrenamt, ausgeführt vom Vorstand Ehrenamt M.-C. Dehner; hier sind noch nicht alle Ergebnisse umgesetzt.
-  • Personelle Veränderungen im Vorstand: M.-C. Dehner (Ehrenamt) und A. Scharr (Kommunikation; kommissarisch eingesetzt).
-  • Den Wasserschaden im Kabinentrakt, der 10 Monate Baustelle nach sich zog. Er dankte J. Tittmann (Vorstand Anlagen und Inventar) für die aufreibende Koordination der Sanierungsarbeiten, Thomas Breuer für seine Hilfe und der Gemeinde für die Bereitstellung ersatzweiser Kabinen in der Gemeindehalle.
-  • Die Einführung des Präventionskonzepts zum Kinder- und Jugendschutz. Hier ist besonders die Jugendschutz-Beauftragte N. Albrecht zu nennen, die sich mit großem Engagement einbringt. Das Konzept wird gelebt, regelmäßige Schulungen finden statt.
+* Die vereinsinterne Umfrage zum Ehrenamt, ausgeführt vom Vorstand Ehrenamt M.-C. Dehner; hier sind noch nicht alle Ergebnisse umgesetzt.
+* Personelle Veränderungen im Vorstand: M.-C. Dehner (Ehrenamt) und A. Scharr (Kommunikation; kommissarisch eingesetzt).
+* Den Wasserschaden im Kabinentrakt, der 10 Monate Baustelle nach sich zog. Er dankte J. Tittmann (Vorstand Anlagen und Inventar) für die aufreibende Koordination der Sanierungsarbeiten, Thomas Breuer für seine Hilfe und der Gemeinde für die Bereitstellung ersatzweiser Kabinen in der Gemeindehalle.
+* Die Einführung des Präventionskonzepts zum Kinder- und Jugendschutz. Hier ist besonders die Jugendschutz-Beauftragte N. Albrecht zu nennen, die sich mit großem Engagement einbringt. Das Konzept wird gelebt, regelmäßige Schulungen finden statt.
 
 Als sportliche Ereignisse nannte er die Fußball-Jugendturniere, die Hallenturniere, darunter das regional einmalige Bambini-Turnier, die Ausrichtung von Relegationsspielen, das 9-Meter Turnier sowie die Turniere und Auftritte der Sparte Badminton und Fitness- und Gesundheits-sport.
 
@@ -60,11 +60,11 @@ Für die Sparte **Badminton** berichtete Julian Petermann: Die Mitgliederzahl is
 Am 11. Juli richtet die Sparte wieder ein Hobby-Turnier aus.
 
 Björn Kittelmann berichtete zur Sparte **Fußball**. Sie ist mit fast 400 Mitgliedern die größte im SVW. Die Spielerzahlen in den einzelnen Altersklassen sind stabil geblieben. Das vergangene Jahr hat große Erfolge gebracht:
-  • Den Gesamtsieg im Schönbuch-Cup
-  • Den Gewinn des Bezirkspokals durch die B- und die C-Jugend
-  • Die Doppel-Meisterschaft der ersten und zweiten Mannschaft
-  • Der SVW stellt derzeit zehn aktive Schiedsrichter
-  • Die Verleihung des DFB-Ehrenamtspreises an Stefan Bader
+* Den Gesamtsieg im Schönbuch-Cup
+* Den Gewinn des Bezirkspokals durch die B- und die C-Jugend
+* Die Doppel-Meisterschaft der ersten und zweiten Mannschaft
+* Der SVW stellt derzeit zehn aktive Schiedsrichter
+* Die Verleihung des DFB-Ehrenamtspreises an Stefan Bader
 
 Diese Erfolge waren hart erarbeitet. Alle arbeiten mit großem Einsatz daran, das erreichte Niveau zu halten.
 
