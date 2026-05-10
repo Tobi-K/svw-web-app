@@ -3,8 +3,7 @@ title: "Neues aus der Sparte Badminton"
 slug: "2026-05-08_neues_badminton"
 date: "2026-05-08"
 tags:
-  - Fußball
-  - A-Junioren
+  - Badminton
 teaser: "Einige aktuelle Informationen aus unserer Badminton-Abteilung"
 image:
   src: "https://res.cloudinary.com/svwalddorf/image/upload/v1778425178/2026-05-8_Walddorfer_Badmintoncup_ztggjr.jpg"
