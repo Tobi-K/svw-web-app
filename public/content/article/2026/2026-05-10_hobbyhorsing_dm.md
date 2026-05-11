@@ -27,17 +27,17 @@ Zwischen den Prüfungen herrschte eine fantastische Stimmung. Ob beim gemeinsame
 #### Unsere Erfolge im Überblick
 Die Mädels des SV Walddorf kehrten mit hervorragenden Platzierungen nach Hause zurück:
 
-| Platz                  | Disziplin                        | Altersklasse | Name            |
-|------------------------|----------------------------------|--------------|-----------------|
-|  1. Platz              | Hochsprung (Deutsche Meisterin!) | U15          | Julie Mang      |
-|  4. Platz              | Zeitspringen 50 cm               | U99          | Verena Stöhr    |
-|  4. Platz              | Schwere Dressur                  | U99          | Verena Stöhr    |
-|  4. Platz              | Mittlere Dressur                 | U21          | Marlene Fischer |
-|  7. Platz              | Schwere Dressur                  | U15          | Carolina Stöhr  |
-|  9. Platz              | Schwere Dressur                  | U12          | Matilda Schwarz |
-| 14. Platz              | Schwere Dressur                  | U15          | Nina Weinmann   |
-| 14. Platz              | Schwere Dressur                  | U21          | Hannah Jones    |
-| leider disqualifiziert | Schwere Dressur                  | U15          | Julie Mang      |
+| Platz| Disziplin     | Alter | Name            |
+|------|---------------|-------|-----------------|
+|  1.  | Hochsprung    | U15   | Julie Mang      |
+|  4.  | Zeitspringen  | U99   | Verena Stöhr    |
+|  4.  | Schwere Dres. | U99   | Verena Stöhr    |
+|  4.  | Mittlere Dres.| U21   | Marlene Fischer |
+|  7.  | Schwere Dres. | U15   | Carolina Stöhr  |
+|  9.  | Schwere Dres. | U12   | Matilda Schwarz |
+| 14.  | Schwere Dres. | U15   | Nina Weinmann   |
+| 14.  | Schwere Dres. | U21   | Hannah Jones    |
+| dq.  | Schwere Dres. | U15   | Julie Mang      |
 
 HERZLICHEN GLÜCKWUNSCH an alle Teilnehmerinnen für diese großartige Teamleistung!
 
