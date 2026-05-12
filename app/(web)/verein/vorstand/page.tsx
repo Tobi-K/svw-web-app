@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function Vorstand() {
   const people = [
     getPersonByTag("1. Vorsitzender"),
-    getPersonByTag("2. Vorsitzende"),
+    getPersonByTag("2. Vorsitzender"),
     getPersonByTag("Schriftführer"),
     getPersonByTag("Vorstand Finanzen"),
     getPersonByTag("Vorstand Sport"),

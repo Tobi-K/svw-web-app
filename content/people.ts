@@ -13,7 +13,7 @@ export const people: Person[] = [
   {
     firstname: "Markus",
     lastname: "Hartlieb",
-    tags: ["1. Vorsitzender"],
+    tags: ["ehemaliger 1. Vorsitzender"],
     email: "markus.hartlieb@svwalddorf.de",
     phone: ["+49 176 10508497"],
     image: { src: "/media/people/markus-hartlieb-2023.png", alt: "Markus Hartlieb", width: 363, height: 477 },
@@ -21,7 +21,7 @@ export const people: Person[] = [
   {
     firstname: "Andrea",
     lastname: "Speier",
-    tags: ["2. Vorsitzende", "Übungsleitung Teen Dance 1"],
+    tags: ["ehemalige 2. Vorsitzende", "Übungsleitung Teen Dance 1"],
     email: "andrea.speier@svwalddorf.de",
     phone: ["+49 171 5775846"],
     image: { src: "/media/people/andrea-speier-2023.png", alt: "Andrea Speier", width: 193, height: 256 },
@@ -32,14 +32,14 @@ export const people: Person[] = [
     tags: ["Schriftführer"],
     email: "klaus.kleinert@svwalddorf.de",
     phone: ["+49 7127 21692"],
-    image: { src: "/media/people/klaus-kleinert-2023.jpg", alt: "Klaus Kleinert", width: 355, height: 473 },
+    image: { src: "/media/people/klaus-kleinert-2026.JPG", alt: "Klaus Kleinert", width: 355, height: 473 },
   },
   {
     firstname: "Martin",
     lastname: "Bayer",
     tags: ["Vorstand Finanzen"],
     email: "martin.bayer@svwalddorf.de",
-    image: { src: "/media/people/martin-bayer-2023.jpg", alt: "Martin Bayer", width: 304, height: 406 },
+    image: { src: "/media/people/martin-bayer-2026.JPG", alt: "Martin Bayer", width: 304, height: 406 },
   },
   {
     firstname: "Björn",
@@ -48,7 +48,7 @@ export const people: Person[] = [
     email: "bjoern.kittelmann@svwalddorf.de",
     phone: ["+49 1573 5646291"],
     image: {
-      src: "https://res.cloudinary.com/svwalddorf/image/upload/c_crop,ar_3:4/v1731583090/bjoern-kittelmann-2024_ofyik1.png",
+      src: "/media/people/björn-kittelmann-2026.JPG",
       width: 750,
       height: 1000,
     },
@@ -114,10 +114,17 @@ export const people: Person[] = [
   {
     firstname: "Julian",
     lastname: "Wohlfarth",
-    tags: ["Sportliche Leitung Aktive", "Co-Trainer Aktive II"],
+    tags: ["1. Vorsitzender", "Co-Trainer Aktive II"],
     email: "julian.wohlfarth@svwalddorf.de",
     phone: ["+49 173 7645542"],
-    image: { src: "/media/people/julian-wohlfarth-2024.png", width: 2000, height: 2000 },
+    image: { src: "/media/people/julian-wohlfarth-2026.JPG", width: 1000, height: 1000 },
+  },
+  {
+    firstname: "Nicolas",
+    lastname: "Stadelmaier",
+    tags: ["2. Vorsitzender"],
+    email: "nicolas.stadelmayier@svwalddorf.de",
+    image: { src: "/media/people/nicolas-stadelmaier-2026.JPG", width: 1000, height: 1000 },
   },
   {
     firstname: "Sandra",
@@ -412,7 +419,7 @@ export const people: Person[] = [
   {
     firstname: "Matthäus",
     lastname: "Mayer",
-    tags: ["Vorstand Kommunikation", "Trainer E-Junioren"],
+    tags: ["ehemaliger Vorstand Kommunikation", "Trainer E-Junioren"],
     phone: ["+49 176 66332295"],
     email: "matthaeus.mayer@svwalddorf.de",
     image: {
@@ -640,7 +647,18 @@ export const people: Person[] = [
     tags: ["Vorstand Ehrenamt", "Betreuer B-Junioren", "Betreuer A-Junioren"],
     phone: ["+49 172 7196906"],
     image: {
-      src: "https://res.cloudinary.com/svwalddorf/image/upload/c_crop,ar_3:4/v1744902145/Mark-Christian_Dehner_odcyty.png",
+      src: "/media/people/mark-dehner-2026.JPG",
+      width: 401,
+      height: 534,
+    },
+  },
+  {
+    firstname: "Alexander",
+    lastname: "Scharr",
+    tags: ["Vorstand Kommunikation"],
+    email: ["alexander.scharr@svwalddorf.de"],
+    image: {
+      src: "/media/people/alexander-scharr-2026.JPG",
       width: 401,
       height: 534,
     },
