@@ -656,7 +656,7 @@ export const people: Person[] = [
     firstname: "Alexander",
     lastname: "Scharr",
     tags: ["Vorstand Kommunikation"],
-    email: ["alexander.scharr@svwalddorf.de"],
+    email: "alexander.scharr@svwalddorf.de",
     image: {
       src: "/media/people/alexander-scharr-2026.JPG",
       width: 401,
