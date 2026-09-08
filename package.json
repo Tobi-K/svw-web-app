@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "SV Walddorf Next.JS App",
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "packageManager": "pnpm@10.2.1",
   "scripts": {
