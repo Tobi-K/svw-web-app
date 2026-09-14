@@ -1,5 +1,5 @@
 ---
-title: "Trainingslager der C-Junioren: Teamgeist, Torejubel und starke Ergebnisse"
+title: "Trainingslager der C-Junioren"
 slug: "2026-09-13_trainingslager_c-jugend"
 date: "2026-09-13"
 tags:
