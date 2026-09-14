@@ -5,7 +5,8 @@ date: "2026-09-13"
 tags:
   - Fußball
   - C-Junioren
-teaser: "Drei Tage Trainingslager, jede Menge Aktion und Teamgeist – und zum Abschluss ein Testspielsieg und ein Halbfinale beim Gaiern-Cup."
+teaser: "Wie bereits im letzten Sommer veranstalteten unsere C-Junioren am vergangenen Wochenende ein 3-tägiges Trainingslager.
+"
 image:
   src: "https://res.cloudinary.com/svwalddorf/image/upload/v1789402669/2026/2026-09-13_trainingslager_c-jugend/tqznfdhi1jzxflxfp3nm.jpg"
   alt: "Die C-Junioren nach dem gelungenen Trainingslager"
