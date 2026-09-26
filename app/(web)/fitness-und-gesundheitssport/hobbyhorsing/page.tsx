@@ -54,38 +54,24 @@ export default function HobbyHorsing() {
             <p>
               <ul>
                 <li>
-                  Beginn: <b>19. September 2025</b>
+                  Kinder im Alter von <b>9 bis 15 Jahre</b>
                 </li>
                 <li>
-                  Ende: <b>24. Oktober 2025</b>
-                  <br />
+                  <b>16 Termine a 90 Minuten</b>, jeweils freitags in der Ballspielhalle Walddorfhäslach
+                </li>
+                <li>
+                  Beginn: <b>25. September 2026</b>
                   <span className="text-sm">
                     (sollten Termine wegen Verhinderung des Übungsleiters oder aus anderen Umständen ausfallen, werden
                     diese am Ende angehängt)
                   </span>
                 </li>
                 <li>
-                  Sommer: Immer <b>freitags, 16:00 – 18:00 Uhr</b> in der Ballspielhalle.
+                  Kursgebühr: €20,- für Vereinsmitglieder
                 </li>
                 <li>
-                  <p>
-                    Winter: Zwischen dem <b>07.11.2025 und 13.02.2025</b> im Spiegelraum der Ballspielhalle mit
-                    Aufteilung der Gruppe nach Können:
-                    <ul>
-                      <li>
-                        entweder von <b>15:00 Uhr - 16:30 Uhr</b>
-                      </li>
-                      <li>
-                        oder von <b>16:30 Uhr - 18:00 Uhr</b>
-                      </li>
-                      (12 Termine ohne Ferien und ohne den 19.12.2025)
-                    </ul>
-                  </p>
+                  Anmeldeschluß: 23.09.2026 
                 </li>
-                <li>
-                  Kinder im Alter von <b>9 bis 15 Jahre</b>
-                </li>
-                <li>Kursgebühr: €20,- für Vereinsmitglieder, €67,- für Nichtmitglieder</li>
               </ul>
             </p>
             <h4>Was ihr braucht</h4>
