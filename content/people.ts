@@ -123,7 +123,7 @@ export const people: Person[] = [
     firstname: "Nicolas",
     lastname: "Stadelmaier",
     tags: ["2. Vorsitzender"],
-    email: "nicolas.stadelmayier@svwalddorf.de",
+    email: "nicolas.stadelmaier@svwalddorf.de",
     image: { src: "/media/people/nicolas-stadelmaier-2026.JPG", width: 1000, height: 1000 },
   },
   {
