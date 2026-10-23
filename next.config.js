@@ -18,6 +18,13 @@ const nextConfig = {
       },
     ],
   },
+  outputFileTracingIncludes: {
+    "/aktuelles": ["./public/content/**/*.md"],
+    "/api/articles": ["./public/content/**/*.md"],
+    "/api/events": ["./public/content/**/*.md"],
+    "/api/events/upcoming": ["./public/content/**/*.md"],
+    "/api/announcements": ["./public/content/**/*.md"],
+  },
   async redirects() {
     return [
       {

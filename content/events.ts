@@ -1,5 +1,8 @@
 import fs from "fs";
+import path from "path";
 import matter from "gray-matter";
+
+export const EVENT_DIRECTORY = path.join(process.cwd(), "public", "content", "event");
 
 type Place = {
   name: string;
@@ -131,15 +134,13 @@ export const events: Event[] = [
   },
 ];
 
-export const EVENT_DIRECTORY = "/content/event";
-
 function getAllEventFilePaths(eventDirectory?: string): string[] {
   const baseDir = eventDirectory || EVENT_DIRECTORY;
   return fs
-    .readdirSync(baseDir)
+    .readdirSync(/*turbopackIgnore: true*/ baseDir)
     .flatMap((yearDir) => {
       const yearPath = `${baseDir}/${yearDir}`;
-      return fs.readdirSync(yearPath).map((filename) => `${yearPath}/${filename}`);
+      return fs.readdirSync(/*turbopackIgnore: true*/ yearPath).map((filename) => `${yearPath}/${filename}`);
     })
     .reverse();
 }
@@ -147,8 +148,8 @@ function getAllEventFilePaths(eventDirectory?: string): string[] {
 export function getAllEventSlugs(eventDirectory?: string): string[] {
   const baseDir = eventDirectory || EVENT_DIRECTORY;
   return fs
-    .readdirSync(baseDir)
-    .flatMap((yearDir) => fs.readdirSync(`${baseDir}/${yearDir}`))
+    .readdirSync(/*turbopackIgnore: true*/ baseDir)
+    .flatMap((yearDir) => fs.readdirSync(/*turbopackIgnore: true*/ `${baseDir}/${yearDir}`))
     .reverse();
 }
 

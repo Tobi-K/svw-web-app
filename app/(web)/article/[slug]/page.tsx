@@ -1,11 +1,8 @@
 import Article from "#/components/web/articles/Article";
 import { getTitle, PageProps, Slug } from "#/lib/page";
-import { getAllArticleSlugs, getArticleBySlug } from "#/content/article";
 import { Metadata } from "next";
 import { club } from "#/content/club";
-
-const ARTICLE_DIRECTORY = "public/content/article";
-
+import { ARTICLE_DIRECTORY, getArticleBySlug, getAllArticleSlugs } from "#/content/article";
 export async function generateMetadata(props: PageProps<Slug>): Promise<Metadata> {
   const params = await props.params;
 

@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import matter from "gray-matter";
 import { Image } from "#/content/image";
 import { Match } from "#/content/match";
@@ -6,7 +7,7 @@ import { Match } from "#/content/match";
 export const DEFAULT_PAGE = 1;
 export const DEFAULT_PAGE_SIZE = 10;
 
-export const ARTICLE_DIRECTORY = "/content/article";
+export const ARTICLE_DIRECTORY = path.join(process.cwd(), "public", "content", "article");
 
 export type ArticleMatter = {
   title: string;
@@ -41,21 +42,21 @@ export type PaginatedArticleMatters = {
 };
 
 export function getArticleBySlug(slug: string, articleDirectory?: string): Article | null {
-  const path = `${articleDirectory || ARTICLE_DIRECTORY}/${slug.slice(0, 4)}/${slug}.md`;
-  if (fs.existsSync(path)) {
-    return readArticle(path);
+  const filePath = `${articleDirectory || ARTICLE_DIRECTORY}/${slug.slice(0, 4)}/${slug}.md`;
+  if (fs.existsSync(filePath)) {
+    return readArticle(filePath);
   }
   return null;
 }
 
-function readArticleMatter(path: string) {
-  const fileContent = fs.readFileSync(path, "utf-8");
+function readArticleMatter(filePath: string) {
+  const fileContent = fs.readFileSync(filePath, "utf-8");
   const { data } = matter(fileContent);
   return data as ArticleMatter;
 }
 
-function readArticle(path: string) {
-  const fileContent = fs.readFileSync(path, "utf-8");
+function readArticle(filePath: string) {
+  const fileContent = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(fileContent);
   return { ...data, content } as Article;
 }
@@ -63,10 +64,10 @@ function readArticle(path: string) {
 export function getAllArticleFilePaths(articleDirectory?: string): string[] {
   const baseDir = articleDirectory || ARTICLE_DIRECTORY;
   return fs
-    .readdirSync(baseDir)
+    .readdirSync(/*turbopackIgnore: true*/ baseDir)
     .flatMap((yearDir) => {
       const yearPath = `${baseDir}/${yearDir}`;
-      return fs.readdirSync(yearPath).map((filename) => `${yearPath}/${filename}`);
+      return fs.readdirSync(/*turbopackIgnore: true*/ yearPath).map((filename) => `${yearPath}/${filename}`);
     })
     .reverse();
 }
@@ -74,8 +75,8 @@ export function getAllArticleFilePaths(articleDirectory?: string): string[] {
 export function getAllArticleSlugs(articleDirectory?: string): string[] {
   const baseDir = articleDirectory || ARTICLE_DIRECTORY;
   return fs
-    .readdirSync(baseDir)
-    .flatMap((yearDir) => fs.readdirSync(`${baseDir}/${yearDir}`))
+    .readdirSync(/*turbopackIgnore: true*/ baseDir)
+    .flatMap((yearDir) => fs.readdirSync(/*turbopackIgnore: true*/ `${baseDir}/${yearDir}`))
     .reverse();
 }
 
