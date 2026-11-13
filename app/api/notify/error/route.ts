@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
     from: process.env.MAIL_CONTACT_FROM,
     to: process.env.MAIL_CONTACT_TO,
     subject: `[svwalddorf.de, ${process.env.NODE_ENV}] Error`,
-    text: `Error: ${error}`,
+    text: `Error: ${JSON.stringify(error, null, 2)}`,
     html: `<p>Error:</p><pre>${JSON.stringify(error, null, " ")}</pre>`,
   });
 

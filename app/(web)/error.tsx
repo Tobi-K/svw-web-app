@@ -3,7 +3,7 @@
 import { useParams, usePathname } from "next/navigation";
 import { useEffect } from "react";
 
-export default function Error(error: Error) {
+export default function Error({ error }: { error: Error & { digest?: string } }) {
   const pathname = usePathname();
   const params = useParams();
 
@@ -14,7 +14,12 @@ export default function Error(error: Error) {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ error, pathname, params }),
+      body: JSON.stringify({
+        message: error.message,
+        digest: error.digest,
+        pathname,
+        params,
+      }),
     });
   }, [error, params, pathname]);
 
@@ -26,3 +31,4 @@ export default function Error(error: Error) {
     </div>
   );
 }
+

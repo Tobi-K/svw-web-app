@@ -3,6 +3,9 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     minimumCacheTTL: 2678400, // 31 days
+    deviceSizes: [640, 828, 1200, 1920], /** claude */
+    imageSizes: [96, 256, 384], /** claude */
+    formats: ["image/webp"], /** claude */
     qualities: [75, 85],
     remotePatterns: [
       {

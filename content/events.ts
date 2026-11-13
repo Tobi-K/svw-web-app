@@ -153,8 +153,11 @@ export function getAllEventSlugs(eventDirectory?: string): string[] {
     .reverse();
 }
 
-export function getEventBySlug(slug: string, eventDirectory?: string): EventArticle {
-  return readEvent(`${eventDirectory || EVENT_DIRECTORY}/${slug.slice(0, 4)}/${slug}.md`);
+// content/events.ts
+export function getEventBySlug(slug: string, eventDirectory?: string): EventArticle | null {
+  const filePath = `${eventDirectory || EVENT_DIRECTORY}/${slug.slice(0, 4)}/${slug}.md`;
+  if (!fs.existsSync(filePath)) return null;
+  return readEvent(filePath);
 }
 
 export function getEventMatters(eventDirectory?: string): EventMatter[] {
