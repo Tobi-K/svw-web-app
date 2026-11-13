@@ -21,7 +21,7 @@ export async function generateMetadata(props: PageProps<Slug>): Promise<Metadata
 export default async function Page(props: PageProps<Slug>) {
   const params = await props.params;
   const eventArticle = getEventBySlug(params.slug, EVENT_FOLDER);
-  if (!article) notFound();
+  if (!eventArticle) notFound();
   return (
     <PageContent>
       <EventArticle eventArticle={eventArticle} />
