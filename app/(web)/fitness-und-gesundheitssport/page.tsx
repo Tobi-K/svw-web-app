@@ -89,7 +89,6 @@ export default function FitnessUndGesundheitssport() {
         </table>
         <h3>Spartenleitung</h3>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-2">
-          <PersonCard person={getPersonByName("Monika Haar")} />
           <PersonCard person={getPersonByName("Claudia Musse")} />
           <PersonCard person={getPersonByName("Marc Musse")} />
         </div>
